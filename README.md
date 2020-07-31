@@ -6,8 +6,6 @@ Tools:
 ![](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=E97627)
 ![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)
-
 
 
 <!--
