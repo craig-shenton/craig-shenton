@@ -1,8 +1,5 @@
 # Hi! :wave:
 
-Social: 
-![https://www.linkedin.com/in/craigrshenton/](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)
-
 Tools:
 ![](https://img.shields.io/badge/-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
