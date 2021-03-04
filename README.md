@@ -1,4 +1,4 @@
-# Hi! :wave:
+# Have you tried turning it off and on again?
 
 Tools:
 ![](https://img.shields.io/badge/-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
