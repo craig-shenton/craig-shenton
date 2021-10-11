@@ -1,11 +1,10 @@
 # Craig R. Shenton, PhD
 
+Cert. data engineer & software developer with extensive experience in the fields of applied mathematics, data science, analytics, cloud computing, and open-source software development.
+
 |email|location|github|linkedin|
 |---|---|---|---|
 |<a href="mailto:craig.shenton@nhsx.nhs.uk">craig.shenton@nhsx.nhs.uk</a>|<a href="https://www.google.com/maps/place/Huddersfield/">Huddersfield, UK</a>|<a href="https://github.com/craig-shenton">github.com/craig-shenton</a>|<a href="https://www.linkedin.com/in/craigrshenton/">linkedin.com/in/craigrshenton/</a>|
-
-
-Cert. data engineer & software developer with extensive experience in the fields of applied mathematics, data science, analytics, cloud computing, and open-source software development.
 
 # Open-Source Projects
 
@@ -15,7 +14,7 @@ Cert. data engineer & software developer with extensive experience in the fields
 			<b><a href="https://nhs-pycom.net/">Python Community for Healthcare</a></b>
 		</td>
 		<td>
-			<b><a href="https://nhsx.github.io/open-health-statistics/">End-to-end open analytics</a></b>
+			<b><a href="https://github.com/nhsx/open-analytics-template">Open Analytics Template</a></b>
 		</td>
 	</thead>
 	<tr>
