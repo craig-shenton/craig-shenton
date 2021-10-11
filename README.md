@@ -11,14 +11,6 @@
 	</thead>
 	<tr>
 		<td>
-			<a href="https://nhs-pycom.net/"><img width="350" alt="pycom" src="/img/pycom.png">
-		</td>
-		<td>
-			<a href="https://github.com/nhsx/open-analytics-template"><img width="350" alt="render-one" src="/img/open_health.png"></a>
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<b>Founder:</b> The Python Community for Healthcare is an open community of practice that champions the use of the python programming language and open code in the NHS and healthcare sector.
 		</td>
 		<td>
@@ -32,17 +24,9 @@
 			<b><a href="https://nhsx.github.io/AnalyticsUnit/azure-de-principles.html">Azure Data Engineering Principles</a></b>
 		</td>
 		<td>
-			<b><a href="https://nhsx.github.io/open-health-statistics/">End-to-end open analytics</a></b>
+			<b><a href="https://nhsx.github.io/open-health-statistics/">Open-Source Heath Satistics</a></b>
 		</td>
 	</thead>
-	<tr>
-		<td>
-			<a href="https://nhsx.github.io/AnalyticsUnit/azure-de-principles.html"><img width="350" alt="render-one" src="/img/open_health.png"></a>
-		</td>
-		<td>
-			<a href="https://nhsx.github.io/open-health-statistics/"><img width="350" alt="render-one" src="/img/open_health.png"></a>
-		</td>
-	</tr>
 	<tr>
 		<td>
 			Azure Data Engineering Principles outlined on the <a href="https://nhsx.github.io/AnalyticsUnit/azure-de-principles.html">NHSX technical gateway</a> site including; Parameterisation, Standardised ETL Design Patterns, Hierarchical Pipeline Orchestration, automated Configuration-as-code and Documentation-as-code. Includes open access and reusable design documentation of <a href="https://nhsx.github.io/au-data-engineering/adfutilities.html">utilities</a> and <a href="https://nhsx.github.io/au-data-engineering/adfpipelines.html">modular pipelines</a> used in the NHSX Analytics Azure environment as well as Python analytical notebooks in <a href="https://github.com/nhsx/au-azure-databricks">Azure Databricks</a>
