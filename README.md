@@ -4,7 +4,7 @@ Cert. data engineer & software developer with extensive experience in the fields
 
 |email|location|github|linkedin|
 |---|---|---|---|
-|<a href="mailto:craig.shenton@nhsx.nhs.uk">craig.shenton@england.nhs.uk</a>|<a href="https://www.google.com/maps/place/Huddersfield/">Huddersfield, UK</a>|<a href="https://github.com/craig-shenton">github.com/craig-shenton</a>|<a href="https://www.linkedin.com/in/craigrshenton/">linkedin.com/in/craigrshenton/</a>|
+|<a href="mailto:craig.shenton@nhs.net">craig.shenton@nhs.net</a>|<a href="https://www.google.com/maps/place/Huddersfield/">Huddersfield, UK</a>|<a href="https://github.com/craig-shenton">github.com/craig-shenton</a>|<a href="https://www.linkedin.com/in/craigrshenton/">linkedin.com/in/craigrshenton/</a>|
 
 # Open-Source Projects
 
