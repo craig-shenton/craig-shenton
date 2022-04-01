@@ -11,7 +11,7 @@ Cert. data engineer & software developer with extensive experience in the fields
 <table>
 	<thead>
 		<td>
-			<b><a href="https://nhs-pycom.net/">Python Community for Healthcare</a></b>
+			<b><a href="https://nhs-pycom.net/">NHS Python Community for Healthcare</a></b>
 		</td>
 		<td>
 			<b><a href="https://github.com/nhsx/open-analytics-template">Open Analytics Template</a></b>
@@ -19,7 +19,7 @@ Cert. data engineer & software developer with extensive experience in the fields
 	</thead>
 	<tr>
 		<td>
-			<b>Founder:</b> The Python Community for Healthcare is an open community of practice that champions the use of the python programming language and open code in the NHS and healthcare sector.
+			<b>Founder:</b> The NHS Python Community for Healthcare is an open community of practice that champions the use of the python programming language and open code in the NHS and healthcare sector.
 		</td>
 		<td>
 			A highly usable template for open analytics projects. Allows users to build their own open source, end-to-end analytical tool using python, plotly, github.io, and github actions. Now used in numerous open analytics projects at NHSX, including the <a href="https://nhsx.github.io/digital-health-insights/">Digital Health Insights</a> website <a href="https://nhsx.github.io/au-data-engineering/openanalyticstemplate.html">Read the docs</a> on the NHSX data engineering documentation site.
