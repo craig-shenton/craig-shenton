@@ -45,5 +45,11 @@ Cert. data engineer & software developer with extensive experience in the fields
 	</tr>
 </table>
 
+# NHSX Projects
+
+|**[Data Lens: a fast-access data search in multiple languages](https://www.nhsx.nhs.uk/ai-lab/explore-all-resources/develop-ai/data-lens-a-fast-access-data-search-in-multiple-languages/)**|
+|:---|
+| I developed and successfully pitched a pilot project for the [NHS AI (Artificial Intelligence) Lab Skunkworks](https://nhsx.github.io/skunkworks/data-lens) problem-sourcing event in September 2020. The pitch outlined a common data problem for analysts and researchers across the UK: large volumes of data held on numerous incompatible databases in different organisations. Following a 12-week development phase, a first-stage prototype of the Data Lens was completed. Using Natural Language Processing (NLP) and other AI technologies, the Data Lens project created a universal search engine for health and social care data catalogues and metadata. The Data Lens joins up data catalogues from NHS Digital, the Health Innovation Gateway, MDXCube, NHS Data Catalogue, PHE Fingertips and the Office for National Statistics. |
+
 <!--
 **craig-shenton/craig-shenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
