@@ -29,7 +29,7 @@ Cert. data engineer & software developer with extensive experience in the fields
 <table>
 	<thead>
 		<td>
-			<b><a href="https://nhsx.github.io/AnalyticsUnit/azure-de-principles.html">Azure Data Engineering Principles</a></b>
+			<b><a href="https://github.com/craig-shenton/nhsuk-static-jekyll/">Jekyll implementation of the NHS.UK service manual</a></b>
 		</td>
 		<td>
 			<b><a href="https://nhsx.github.io/open-health-statistics/">Open-Source Heath Satistics</a></b>
@@ -37,7 +37,7 @@ Cert. data engineer & software developer with extensive experience in the fields
 	</thead>
 	<tr>
 		<td>
-			Azure Data Engineering Principles outlined on the <a href="https://nhsx.github.io/AnalyticsUnit/azure-de-principles.html">NHSX technical gateway</a> site including; Parameterisation, Standardised ETL Design Patterns, Hierarchical Pipeline Orchestration, automated Configuration-as-code and Documentation-as-code. Includes open access and reusable design documentation of <a href="https://nhsx.github.io/au-data-engineering/adfutilities.html">utilities</a> and <a href="https://nhsx.github.io/au-data-engineering/adfpipelines.html">modular pipelines</a> used in the NHSX Analytics Azure environment as well as Python analytical notebooks in <a href="https://github.com/nhsx/au-azure-databricks">Azure Databricks</a>
+			Open-source Jekyll implementation of the NHS.UK service manual that allows you to build your own NHS.UK themed website and deploy to GitHub.io website using the in-built static-site generator for free. Built using Jekyll and liquid templates [<a href="https://craig-shenton.github.io/nhsuk-static-jekyll/">Example</a>].
 		</td>
 		<td>
 			A fully automated, serverless analytics project, developed in collaboration with NHS Business Service Authority, using the GitHub/GitLab API to collect statistics on open-source NHS and healthcare related code repositories.
@@ -50,6 +50,10 @@ Cert. data engineer & software developer with extensive experience in the fields
 |**[Data Lens: a fast-access data search in multiple languages](https://www.nhsx.nhs.uk/ai-lab/explore-all-resources/develop-ai/data-lens-a-fast-access-data-search-in-multiple-languages/)**|
 |:---|
 | I developed and successfully pitched a pilot project for the [NHS AI (Artificial Intelligence) Lab Skunkworks](https://nhsx.github.io/skunkworks/data-lens) problem-sourcing event in September 2020. The pitch outlined a common data problem for analysts and researchers across the UK: large volumes of data held on numerous incompatible databases in different organisations. Following a 12-week development phase, a first-stage prototype of the Data Lens was completed. Using Natural Language Processing (NLP) and other AI technologies, the Data Lens project created a universal search engine for health and social care data catalogues and metadata. The Data Lens joins up data catalogues from NHS Digital, the Health Innovation Gateway, MDXCube, NHS Data Catalogue, PHE Fingertips and the Office for National Statistics. |
+
+|**[Azure Data Engineering Principles](https://nhsx.github.io/AnalyticsUnit/azure-de-principles.html)**|
+|:---|
+Azure Data Engineering Principles outlined on the NHSX technical gateway site including; Parameterisation, Standardised ETL Design Patterns, Hierarchical Pipeline Orchestration, automated Configuration-as-code and Documentation-as-code. Includes open access and reusable design documentation of <a href="https://nhsx.github.io/au-data-engineering/adfutilities.html">utilities</a> and <a href="https://nhsx.github.io/au-data-engineering/adfpipelines.html">modular pipelines</a> used in the NHSX Analytics Azure environment as well as Python analytical notebooks in <a href="https://github.com/nhsx/au-azure-databricks">Azure Databricks</a>
 
 <!--
 **craig-shenton/craig-shenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
