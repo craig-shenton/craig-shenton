@@ -55,5 +55,11 @@ Cert. data engineer & software developer with extensive experience in the fields
 |:---|
 Azure Data Engineering Principles outlined on the NHSX technical gateway site including; Parameterisation, Standardised ETL Design Patterns, Hierarchical Pipeline Orchestration, automated Configuration-as-code and Documentation-as-code. Includes open access and reusable design documentation of <a href="https://nhsx.github.io/au-data-engineering/adfutilities.html">utilities</a> and <a href="https://nhsx.github.io/au-data-engineering/adfpipelines.html">modular pipelines</a> used in the NHSX Analytics Azure environment as well as Python analytical notebooks in <a href="https://github.com/nhsx/au-azure-databricks">Azure Databricks</a>
 
+# NHS England Projects
+
+|**[ICB Place Based Allocation Tool](https://github.com/nhsengland/AIF_Allocation_Tool)**|
+|:---|
+| I developed a Python Streamlit application to assist Integrated Care Boards (ICBs) perform need based allocation based on defined place. The tool allows a new 'place' to be defined in an ICB as a cluster of GP practices. This allows place to be flexibly defined, whether that is as GP practices in the same Primary Care Network (PCN), Local Authority, or that feed into the same Secondary services. More information on the Allocations process, as well as useful documentation can be found at https://www.england.nhs.uk/allocations/ |
+
 <!--
 **craig-shenton/craig-shenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
