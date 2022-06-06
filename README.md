@@ -32,7 +32,7 @@ Cert. data engineer & software developer with extensive experience in the fields
 			<b><a href="https://github.com/craig-shenton/nhsuk-static-jekyll/">Jekyll implementation of the NHS.UK service manual</a></b>
 		</td>
 		<td>
-			<b><a href="https://nhsx.github.io/open-health-statistics/">Open-Source Heath Satistics</a></b>
+			<b><a href="https://nhs-pycom.github.io/opensource-health-statistics/">Open-Source Heath Satistics</a></b>
 		</td>
 	</thead>
 	<tr>
