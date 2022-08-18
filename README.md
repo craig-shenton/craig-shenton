@@ -51,7 +51,7 @@ Cert. data engineer & software developer with extensive experience in the fields
 			<b><a href="https://github.com/craig-shenton/quarto-nhs-theme">Quarto NHS Theme</a></b>
 		</td>
 		<td>
-			<b><a href="https://nhs-pycom.github.io/open-source-explained/">Open-Source Explained</a></b>
+			<b><a href="https://github.com/nhs-pycom/open-source-explained">Open-Source Explained</a></b>
 		</td>
 	</thead>
 	<tr>
