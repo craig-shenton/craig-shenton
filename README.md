@@ -45,6 +45,25 @@ Cert. data engineer & software developer with extensive experience in the fields
 	</tr>
 </table>
 
+<table>
+	<thead>
+		<td>
+			<b><a href="https://github.com/craig-shenton/quarto-nhs-theme">Quarto NHS Theme</a></b>
+		</td>
+		<td>
+			<b><a href="https://nhs-pycom.github.io/open-source-explained/">Open-Source Explained</a></b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			An NHS Theme for deploying Quarto markdown reports to GitHub.io pages with automated GitHub actions.
+		</td>
+		<td>
+			 A cross-community project developing an easy-to-read physical booklet explaining open-source to the NHS.
+		</td>
+	</tr>
+</table>
+
 # NHSX Projects
 
 |**[Data Lens: a fast-access data search in multiple languages](https://www.nhsx.nhs.uk/ai-lab/explore-all-resources/develop-ai/data-lens-a-fast-access-data-search-in-multiple-languages/)**|
