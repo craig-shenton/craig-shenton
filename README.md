@@ -4,7 +4,7 @@ Cert. data engineer & software developer with extensive experience in the fields
 
 |email|blog|github|linkedin|
 |---|---|---|---|
-|<a href="mailto:craig.shenton@nhs.net">craig.shenton@nhs.net</a>|<a href="https://craig-shenton.github.io/craigrshenton/">github.io/craigrshenton|<a href="https://github.com/craig-shenton">github.com/craig-shenton</a>|<a href="https://www.linkedin.com/in/craigrshenton/">linkedin.com/in/craigrshenton</a>|
+|<a href="mailto:">craig.shenton@</a>|<a href="https://craig-shenton.github.io/craigrshenton/">github.io/craigrshenton|<a href="https://github.com/craig-shenton">github.com/craig-shenton</a>|<a href="https://www.linkedin.com/in/craigrshenton/">linkedin.com/in/craigrshenton</a>|
 
 # Open-Source Projects
 
