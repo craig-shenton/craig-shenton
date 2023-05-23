@@ -22,7 +22,7 @@ Cert. data engineer & software developer with extensive experience in the fields
 
 | Project | Description |
 |---------|-------------|
-| [NHS England R User Group](https://nhsengland.github.io/nhs-r-reporting/) | I am Co-Chair of the NHSE R User Group that aims to share good practice, code, resources, and knowledge using R across NHS England platforms. |
+| [NHS England R User Group](https://nhsengland.github.io/nhs-r-reporting/) | I was Co-Chair of the NHSE R User Group that aims to share good practice, code, resources, and knowledge using R across NHS England platforms. |
 | [NHS England Allocations of Financial Resources](https://www.england.nhs.uk/allocations/) | Developed a Python Streamlit application to assist Integrated Care Boards (ICBs) perform need based allocations. The tool allows a new 'place' to be defined in an ICB as a cluster of GP practices. This allows place to be flexibly defined, whether that is as GP practices in the same Primary Care Network (PCN), Local Authority, or that feed into the same Secondary services. |
 
 # NHSX Projects
