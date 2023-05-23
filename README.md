@@ -18,14 +18,14 @@ Cert. data engineer & software developer with extensive experience in the fields
 | [NHS.UK Jekyll Theme](https://craig-shenton.github.io/nhsuk-static-jekyll/) | Open-source Jekyll implementation of the NHS.UK service manual that allows you to build your own NHS.UK themed website and deploy to GitHub.io website using the in-built static-site generator for free. Built using Jekyll and liquid templates. |
 | [NHS Quarto Theme](https://craig-shenton.github.io/quarto-nhs-theme/) | An NHS Theme for deploying Quarto markdown reports to GitHub.io pages with automated GitHub actions. |
 
-# NHS England
+# NHS England Projects
 
 | Project | Description |
 |---------|-------------|
 | [NHS England R User Group](https://nhsengland.github.io/nhs-r-reporting/) | I am Co-Chair of the NHSE R User Group that aims to share good practice, code, resources, and knowledge using R across NHS England platforms. |
 | [NHS England Allocations of Financial Resources](https://www.england.nhs.uk/allocations/) | Developed a Python Streamlit application to assist Integrated Care Boards (ICBs) perform need based allocations. The tool allows a new 'place' to be defined in an ICB as a cluster of GP practices. This allows place to be flexibly defined, whether that is as GP practices in the same Primary Care Network (PCN), Local Authority, or that feed into the same Secondary services. |
 
-# NHSX
+# NHSX Projects
 
 | Project | Description |
 |---------|-------------|
