@@ -16,7 +16,7 @@ Cert. data engineer & software developer with extensive experience in the fields
 | [Open-Source Heath Satistics](https://nhs-pycom.github.io/opensource-health-statistics/) | A fully automated, serverless analytics project, developed in collaboration with NHS Business Service Authority, using the GitHub/GitLab API to collect statistics on open-source NHS and healthcare related code repositories. |
 | [Open Analytics Template](https://github.com/nhsx/open-analytics-template) | A highly usable template for open analytics projects. Allows users to build their own open source, end-to-end analytical tool using python, plotly, github.io, and github actions. Now used in numerous open analytics projects at NHSX. |
 | [NHS.UK Jekyll Theme](https://craig-shenton.github.io/nhsuk-static-jekyll/) | Open-source Jekyll implementation of the NHS.UK service manual that allows you to build your own NHS.UK themed website and deploy to GitHub.io website using the in-built static-site generator for free. Built using Jekyll and liquid templates. |
-| [NHS Quarto Theme](https://craig-shenton.github.io/quarto-nhs-theme/) | An NHS Theme for deploying Quarto markdown reports to GitHub.io pages with automated GitHub actions. |
+| [NHS Quarto Theme](https://github.com/nhs-r-community/quarto-nhs-theme) | An NHS Theme for deploying Quarto markdown reports to GitHub.io pages with automated GitHub actions. |
 
 # NHS England Projects
 
