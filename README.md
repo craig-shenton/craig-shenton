@@ -2,9 +2,9 @@
 
 Cert. data engineer & software developer with extensive experience in the fields of applied mathematics, data science, analytics, cloud computing, and open-source software development.
 
-|blog|github|linkedin|
-|---|---|---|
-|<a href="https://craig-shenton.github.io/craigrshenton/">github.io/craigrshenton|<a href="https://github.com/craig-shenton">github.com/craig-shenton</a>|<a href="https://www.linkedin.com/in/craigrshenton/">linkedin.com/in/craigrshenton</a>|
+|github|linkedin|
+|---|---|
+|<a href="https://github.com/craig-shenton">github.com/craig-shenton</a>|<a href="https://www.linkedin.com/in/craigrshenton/">linkedin.com/in/craigrshenton</a>|
 
 # NHS Open Projects
 
